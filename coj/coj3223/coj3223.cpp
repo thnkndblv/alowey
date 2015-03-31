@@ -15,6 +15,7 @@ int main() {
       ans += i;
       if ( n != i*i ) ans += n / i;
     }
+    
     printf("%lld\n", ans);
   }
 
