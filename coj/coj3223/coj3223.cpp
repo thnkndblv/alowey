@@ -1,5 +1,7 @@
 #include "stdio.h"
 
+using namespace std;
+
 typedef long long Long;
 
 int main() {
