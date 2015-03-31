@@ -1,4 +1,4 @@
-#include "cstdio"
+#include "stdio.h"
 
 typedef long long Long;
 
